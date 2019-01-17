@@ -1,0 +1,108 @@
+#panel, #flip {
+  padding: 5px;
+  text-align: center;
+  background-color: #e5eecc;
+  border: solid 1px #c3c3c3;
+}
+
+#panel {
+  padding: 150px;
+  display: none;
+  background-color: red;
+}
+
+.flip{
+	text-align: center;
+	background-color: blue;
+	border: 2px solid #ddd;
+	padding: 5px;
+	color: #fff;
+	font-size: 25px;
+}
+.panel{
+	padding: 150px;
+	background-color: skyblue;
+	text-align: center;
+}
+.flip1{
+	text-align: center;
+	background-color: blue;
+	border: 2px solid #ddd;
+	padding: 5px;
+	color: #fff;
+	font-size: 25px;
+}
+.panel1{
+	padding: 150px;
+	background-color: skyblue;
+	text-align: center;
+}
+
+/*w3shcool hw*/
+#flip{
+	padding: 5px;
+	font-size: 20px;
+	text-align: center;
+	background-color: #555;
+	color: #fff;
+	border: 1px solid #666;
+}
+#pane{
+	padding: 55px;
+	font-size: 20px;
+	text-align: center;
+	background-color: #555;
+	color: #fff;
+	border: 1px solid #666;
+}
+#pane{
+	padding: 80px;
+	display: none;
+}
+#S_down, #dis{
+	padding: 5px;
+	background-color: #555;
+	color: #fff;
+	text-align: center;
+}
+#dis{
+	padding: 50px;
+	display: none;
+}
+
+.p_hide2{
+	background-color: #666;
+	padding: 10px;
+	color: #fff;
+}
+.box_blue{
+	height: 200px;
+	width: 200px;
+	background-color: blue;
+	/*position: absolute;*/
+}
+.odd{
+	background-color: #ff6600;
+	padding: 10px;
+}
+.even{
+	background-color: #8cff1a;
+	padding: 10px;
+}
+.first{
+	background-color: #ff3333;
+	padding: 10px;
+}
+.last{
+	background-color: #751aff;
+	padding: 10px;
+}
+.nth{
+	background-color: #ff1a66;
+	padding: 10px;
+}
+.fn{
+	border: 2px solid red;
+}
+
+/*w3shcool hw*/
